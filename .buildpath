@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="account"/>
+	<buildpathentry kind="src" path="follow"/>
+	<buildpathentry kind="src" path="gcm"/>
+	<buildpathentry kind="src" path="post"/>
+	<buildpathentry kind="src" path="search"/>
+	<buildpathentry kind="src" path="util"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
